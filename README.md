@@ -1,4 +1,4 @@
 # MisT
 ### Muti-stride History-aware Transformer for Surgical Phase Recogntion
 
-The paper is under consideration of IEEE Transactions on Medical Imaging. Once approved We will update this link
+This paper is currently under review by IEEE Transactions on Medical Imaging. We will update this link once the paper has been accepted.
